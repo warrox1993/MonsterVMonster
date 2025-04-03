@@ -26,8 +26,9 @@ public class LootFactory {
         )));
 
         lootsParRarete.put(Rarete.LEGENDAIRE, new ArrayList<>(List.of(
-                new Arme("Épée du Dragon", 100, 12, 10, Rarete.LEGENDAIRE),
-                new Arme("Faucheuse de Flammes", 120, 14, 9, Rarete.LEGENDAIRE)
+                new Arme("EpeeEnMousse", 100, 12, 10, Rarete.LEGENDAIRE),
+                new Arme("Faucheuse de Flammes", 120, 14, 9, Rarete.LEGENDAIRE),
+                new Arme("LichKing", 2000,3333, 3113,Rarete.LEGENDAIRE)
         )));
 
         lootsParRarete.put(Rarete.UNIQUE, new ArrayList<>(List.of(
